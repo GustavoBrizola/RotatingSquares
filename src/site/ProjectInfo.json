@@ -1,0 +1,8 @@
+{
+  "ProjectName": "Square",
+  "PublicName": "Rotating Squares",
+  "BrowseTabName": "Gustavo Brizola - Rotating Squares",
+  "BrowseTabPic": "https://github.com/GustavoBrizola.png",
+  "Thumbnail": "images/Thumb.png",
+  "Description": "Visual demonstration of five coloured squares. The main purpose is understand how CSS files builds animations, implements on page and uses span child."
+}
